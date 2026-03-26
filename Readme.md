@@ -34,10 +34,6 @@
 
 ---
 
-### 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-berrqia&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ### 📫 Let's Connect
 Looking to build scalable AI applications or interactive 3D web platforms? Let's talk.
