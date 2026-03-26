@@ -25,10 +25,10 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[DocuMind AI](#)** | Intelligent document Q&A system using RAG architecture, FAISS vector search, and LLM integration. | `Python`, `GenAI`, `Streamlit` |
-| **[AutoLux](#)** | Premium full-stack luxury car rental platform with secure JWT authentication and live currency conversion. | `React`, `Node.js`, `PostgreSQL` |
-| **[Van Gogh 3D Museum](#)** | Interactive WebGL museum featuring procedural PBR environments and real-time data visualization. | `Three.js`, `React`, `GLSL` |
-| **[PropVal AI](#)** | Real estate valuation ML model predicting property values in real-time with an interactive mapping dashboard. | `Scikit-learn`, `Python` |
+| **[DocuMind AI](https://github.com/DevWizard82/documind-ai)** | Intelligent document Q&A system using RAG architecture, FAISS vector search, and LLM integration. | `Python`, `GenAI`, `Streamlit` |
+| **[AutoLux](https://github.com/DevWizard82/autolux)** | Premium full-stack luxury car rental platform with secure JWT authentication and live currency conversion. | `React`, `Node.js`, `PostgreSQL` |
+| **[Van Gogh 3D Museum](https://github.com/DevWizard82/vangogh-museum)** | Interactive WebGL museum featuring procedural PBR environments and real-time data visualization. | `Three.js`, `React`, `GLSL` |
+| **[PropVal AI](https://github.com/DevWizard82/california-real-estate-ai)** | Real estate valuation ML model predicting property values in real-time with an interactive mapping dashboard. | `Scikit-learn`, `Python` |
 
 > *Note: Click on the projects above to view the source code and live demos.*
 
